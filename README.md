@@ -23,7 +23,7 @@ This repository contains a Spring Boot application that demonstrates a CRUD (Cre
 - Configure your Spring Boot application to use these settings for Firebase connectivity. You can do this by adding the configuration to your application.properties or application.yml file.
 
 ## Running the Application
-- Clone this repository: git clone https://github.com/abdellah-username/spring-firebase-crud.git
+- Clone this repository: git clone https://github.com/abdellah-belcaid/spring-firebase-crud.git
 - Navigate to the project directory: cd spring-firebase-crud
 - Build the project: mvn clean install 
 - Run the application: mvn spring-boot:run 
